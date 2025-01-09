@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.open-sans-normal {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+ font-style: normal;
+  
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#header {
+  background-image: url("../images/Banner\ Image.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  width: 1320px;
+  padding-top: 60px;
+  
+}
+.banner-part{
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  padding: 40px;
+  
+}
+/* offer part */
+/* .holyday{
+  text-align: center;
+  margin-top: 30px;
+
+}
+.happy{
+  color: red;
+  margin: 20px;
+}
+.categories{
+  font-family: bold;
+}
+.image{
+  margin: 30px;
+}
+.midnight{
+  background-image: url("../images/Vectorrr.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:700px ;
+  width: 1320px;
+  height: 600px;
+}
+.half{
+  display: flex;
+}
+.half-2{
+  margin-top: 20px;
+}
+
+.btn-primary{
+  border: none;
+  height: 40px;
+  width: 100px;
+  background-color:tomato;
+  color: white;
+  border-radius: 20px;
+  margin: 20px;
+}
+.btn-primary:hover{
+background-color: rgb(228, 193, 102);
+}
+.banner-part2{
+  color: white;
+  padding: 100px;
+  padding-left: 80px;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+} */
+/* new park part */
+/* .hotel{
+  background-image: linear-gradient(180deg, rgb(242, 171, 171), rgb(241, 241, 165));
+  height: 480px;
+  width: 1310px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin: 40px;
+}
+.park{
+  
+}
+.date{
+  color: red;
+} */
+/* coming soon part */
+/* .coming{
+  display: flex;
+  width: 1320px;
+  height: 463px;
+  justify-content: space-between;
+  
+}
+.best{
+  margin: 80px;
+}
+
+.best-1{
+  color: red;
+  margin: 10px;
+}
+.soon{
+  margin: 10px;
+} */
+/* holydays sale part */
+/* .holydays-sale{
+  background-image: url("../images/Rectangle\ 2.png");
+  background-repeat: no-repeat;
+  background-position: left bottom ;
+  width: 1320px;
+  height: 986px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.funtional{
+  margin-top: 40px;
+}
+.sale{
+  margin: 8px;
+}
+.gift-box{
+  display: flex;
+  justify-content: space-between;
+}
+.box{
+  padding-top: 180px;
+  
+}
+.box-2{
+  padding-top: 220px;
+} */
+/* portfolio part */
+/* .portfolio{
+text-align: center;
+margin-top: 60px;
+}
+
+.best-gift{
+  margin-top: 50px;
+  
+} */
+/* subscribe part */
+/* .subscribe{
+  background-color: beige;
+  margin: 50px;
+  width: 1320px;
+  height: 400px;
+  border-radius: 10px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.subscribe-part{
+  margin: 30px;
+} */
+/* footer part */
+/* .footer-1{
+  display: flex;
+  color: white;
+  justify-content: center;
+  justify-content: space-around;
+  padding-bottom: 60px;
+}
+.footer{
+  background-color: black;
+  width: 1600px;
+  height: 400px;
+  font-size: 20px;
+}
+.line{
+  display: flex;
+  margin: 0 auto;
+  gap: 15px;
+}
+.facebook{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+ 
+}
+.build{
+  padding-top: 50px;
+}
+.all{
+  display: flex;
+  color: white;
+  justify-content: space-around;
+  padding-top: 50px;
+} */
