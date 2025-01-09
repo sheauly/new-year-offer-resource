@@ -83,7 +83,7 @@ background-color: rgb(228, 193, 102);
   font-size: 30px;
 }
 /* new park part */
-/* .hotel{
+.hotel{
   background-image: linear-gradient(180deg, rgb(242, 171, 171), rgb(241, 241, 165));
   height: 480px;
   width: 1310px;
@@ -98,9 +98,9 @@ background-color: rgb(228, 193, 102);
 }
 .date{
   color: red;
-} */
+}
 /* coming soon part */
-/* .coming{
+.coming{
   display: flex;
   width: 1320px;
   height: 463px;
@@ -119,7 +119,7 @@ background-color: rgb(228, 193, 102);
   margin: 10px;
 } */
 /* holydays sale part */
-/* .holydays-sale{
+.holydays-sale{
   background-image: url("../images/Rectangle\ 2.png");
   background-repeat: no-repeat;
   background-position: left bottom ;
@@ -147,7 +147,7 @@ background-color: rgb(228, 193, 102);
   padding-top: 220px;
 } */
 /* portfolio part */
-/* .portfolio{
+ .portfolio{
 text-align: center;
 margin-top: 60px;
 }
@@ -157,7 +157,7 @@ margin-top: 60px;
   
 } */
 /* subscribe part */
-/* .subscribe{
+ .subscribe{
   background-color: beige;
   margin: 50px;
   width: 1320px;
@@ -171,7 +171,7 @@ margin-top: 60px;
   margin: 30px;
 } */
 /* footer part */
-/* .footer-1{
+.footer-1{
   display: flex;
   color: white;
   justify-content: center;
@@ -203,4 +203,4 @@ margin-top: 60px;
   color: white;
   justify-content: space-around;
   padding-top: 50px;
-} */
+} 
